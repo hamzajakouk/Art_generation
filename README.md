@@ -8,7 +8,7 @@ In this project, we are going to combine the Mosque of Hassan II in Casablanca (
 
 <img src="images\Capture.png" style="width:750px;height:200px;">
 
-                             Let's get started!
+ Let's get started!
 
 <a name='3'></a>
 ## Transfer Learning
